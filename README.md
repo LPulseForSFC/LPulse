@@ -66,3 +66,16 @@ For example, to evaluate Optimization method for the first case in the directory
 $ python main.py ../Data/Random/node1000_ER_Case0 1 1
 ```
 You will obtain the algorithm's solution time (in microseconds).
+
+## Citation
+If you use our code, please cite our paper:
+```
+@article{liu2024lpulse,
+  title={LPulse: An efficient algorithm for service function chain placement and routing with delay guarantee},
+  author={Liu, Ximeng and Zhao, Shizhen and Wang, Xinbing and Zhou, Chenghu},
+  journal={Computer Networks},
+  pages={110728},
+  year={2024},
+  publisher={Elsevier}
+}
+```
